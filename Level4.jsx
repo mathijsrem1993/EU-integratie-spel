@@ -1078,7 +1078,7 @@ function Level4({ onComplete }) {
           >
             <div className="relative bg-white rounded-2xl px-6 py-4 shadow-2xl border-4 border-gray-800 max-w-xs">
               <p className="text-base text-gray-800 leading-snug font-sans">
-                <strong>Johnson:</strong> "Dat klopt niet — Britse bedrijven handelen nog steeds vrij met Europa en hebben nieuwe wereldwijde kansen gekregen."
+                <strong>Johnson:</strong> Dat klopt niet — Britse bedrijven handelen nog steeds vrij met Europa en hebben nieuwe wereldwijde kansen gekregen.
               </p>
             </div>
           </div>
