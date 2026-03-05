@@ -1836,7 +1836,7 @@ function Level4({ onComplete }) {
               )}
               {endingTextIndex === 2 && (
                 <p className="text-base text-gray-800 leading-snug font-sans mb-4">
-                  <strong>Van Weel:</strong> We moeten de extremere situatie van het VK vertalen naar de situatie van Nederland. Als we als enige het huidige beleid van de EU willen voortzetten blokkeren we EU-integratie of zwakken we deze af. Onze netto baten dalen hard, terwijl de netto baten van de overige lidstaten ook lager uitvallen.
+                  <strong>Van Weel:</strong> We moeten de extremere situatie van het VK vertalen naar de situatie van Nederland. Als we als enige het huidige beleid van de EU willen voortzetten blokkeren we EU-integratie of zwakken we deze af. Ten opzichte van de situatie dat iedereen inzet op meer EU-integratie dalen onze netto baten hard, terwijl de netto baten van de overige lidstaten ook lager uitvallen.
                 </p>
               )}
               
