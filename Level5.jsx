@@ -1192,7 +1192,7 @@ function Level5() {
               {conversationStep === 8.5 && (
                 <>
                   <p className="text-lg text-gray-800 leading-relaxed font-sans mb-4">
-                    <strong>Wilders:</strong> Sterker nog: ik ben überhaupt niet voor méér Europese integratie. We moeten juist minder macht naar Brussel overdragen en de controle weer terughalen naar Nederland.
+                    <strong>Wilders:</strong> Sterker nog: ik ben überhaupt niet voor méér Europese integratie. We moeten juist minder macht aan Brussel overdragen en de controle weer terughalen naar Nederland.
                   </p>
                   <div className="flex justify-between">
                     <span 
