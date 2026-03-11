@@ -21,10 +21,10 @@ function Level2({ onComplete }) {
   }, []);
 
   const texts = [
-    "<strong>Van Weel:</strong> Dank u wel dat ik langs mag komen, meneer Draghi. Als voormalig president van de Europese Centrale Bank en voormalig premier van Italië bent u een van de meest ervaren stemmen als het gaat om Europese samenwerking.",
+    "<strong>Van Weel:</strong> Dank u wel dat ik langs mag komen, meneer Draghi. Aangezien u de voormalig president van de Europese Centrale Bank en voormalig premier van Italië bent, zijn er weinig mensen met meer expertise over Europese samenwerking.",
     "<strong>Van Weel:</strong> Zou u mij meer kunnen vertellen over het rapport dat voor ons op tafel ligt? 'The future of European competitiveness' klinkt zeer relevant voor mijn debat over Europese integratie.",
     "<strong>Draghi:</strong> Europa staat op een kruispunt. We verliezen terrein ten opzichte van de VS en China op cruciale gebieden: innovatie, productiviteit, en economische groei. Dit rapport legt bloot dat zonder diepere integratie en gezamenlijke investeringen, Europa irrelevant dreigt te worden op het wereldtoneel.",
-    "<strong>Draghi:</strong> Je kan het zien als een economische spelsituatie. Als Nederland en alle andere lidstaten niet inzetten op meer Europese integratie, dan zullen we nog afhankelijker worden van andere wereldmachten. Onze economie dreigt irrelevant te worden. Dit is het meest slecht denkbare scenario.",
+    "<strong>Draghi:</strong> Je kan het zien als een economische spelsituatie. Als Nederland en alle andere lidstaten niet inzetten op meer Europese integratie, dan zullen we nog afhankelijker worden van andere wereldmachten. Onze economie dreigt irrelevant te worden. Dit is het slechtst denkbare scenario.",
     "<strong>Draghi:</strong> In de matrix gaan we de opbrengsten van keuzes weergeven. Een pijl omhoog staat voor gestegen nettobaten (netto baten = economische groei - investeringen). Hoe meer hoe beter. Een pijl naar beneden staat voor gedaalde nettobaten. Hoe meer pijlen hoe slechter. Sleep de passende opbrengsten naar de cel rechtsonder.",
     "<strong>Draghi:</strong> Dit zijn inderdaad de juiste opbrengsten. We hoeven als EU-lidstaten geen extra investeringen te doen. Op de korte termijn lijkt dit interessant, maar op de lange termijn zorgt dit ervoor dat we ingehaald worden door andere landen.",
     "<strong>Van Weel:</strong> Bedankt voor uw tijd meneer Draghi. Ik ga nu terug naar mijn werkkamer, daar heb ik een afspraak."
