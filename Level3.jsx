@@ -33,7 +33,7 @@ function Level3({ onComplete }) {
   ];
 
   const phoneCallTexts = [
-    "<strong>Van Weel:</strong> Wat fijn dat u mij terugbelt mevrouw von der Leyen. Aangezien u de voorzitter bent van de Europese Commissie wil ik u graag vragen wat meer Europese integratie alle lidstaten kan opleveren.",
+    "<strong>Van Weel:</strong> Mevrouw von der Leyen, wat fijn dat u mij terugbelt. Aangezien u de voorzitter bent van de Europese Commissie wil ik u graag vragen wat meer Europese integratie alle lidstaten kan opleveren.",
     "<strong>Von der Leyen:</strong> Ik vind het altijd leuk om met een collega te spreken over Eu...pa. Wat wil u w-w-w-w....en over de Europese ..nie?",
     "<strong>Van Weel:</strong> De verbinding is niet zo goed, u hapert een beetje. Ik ga mijn best doen om u zo goed mogelijk te verstaan.",
     "dragdrop1", // First drag-drop exercise
@@ -702,7 +702,7 @@ function Level3({ onComplete }) {
                 /* First drag-drop exercise */
                 <>
                   <p className="text-base text-gray-800 leading-snug font-sans mb-4">
-                    <strong>Von der Leyen:</strong> Als we als losse landen blijven werken, verliezen we het van reuzen zoals de VS en China, wat slecht is voor onze internationale concurrentiepositie. Door als Europa samen te werken, kunnen we veel meer investeren in nieuwe technieken en slimme innovaties, waardoor we de producten van{' '}
+                    <strong>Von der Leyen:</strong> Als we als losse landen blijven werken, verliezen we het van grootmachten zoals de VS en China, wat slecht is voor onze internationale concurrentiepositie. Door als Europa samen te werken, kunnen we veel meer investeren in nieuwe technieken en slimme innovaties, waardoor we de producten van{' '}
                     <span
                       onDragOver={handleDragOver}
                       onDrop={() => handleDrop('gap1', 'hoge')}
@@ -728,7 +728,7 @@ function Level3({ onComplete }) {
                     >
                       {filledWords.gap2 || '____'}
                     </span>
-                    {' '}prijs kunnen maken. Alleen door voorsprong in kennis en vernieuwing zorgen we ervoor dat onze bedrijven sterk genoeg blijven om wereldwijd te winnen.
+                    {' '}prijs kunnen maken. Alleen door voorsprong in kennis en vernieuwing zorgen we ervoor dat onze bedrijven sterk genoeg blijven om wereldwijd te competitief te blijven.
                   </p>
 
                   <div className="bg-blue-50 border-2 border-blue-300 rounded-lg p-3 mb-4">
